@@ -1,21 +1,29 @@
 # Assignment-3
-Task 1: Read a File and Handle Errors
+Task 1: Calculate Factorial Using a Function
 
 Problem Statement: Write a Python program that:
 
-1. Opens and reads a text file named sample.txt.
+1. Defines a function named factorial that takes a number as an argument
 
-2. Prints its content line by line.
+and calculates its factorial using a loop or recursion.
 
-3. Handles errors gracefully if the file does not exist.
+2. Returns the calculated factorial.
+
+3. Calls the function with a sample number and prints the output.
 
 
-Task 2: Write and Append Data to a File
+
+   Task 2: Using the Math Module for Calculations
 
 Problem Statement: Write a Python program that:
 
-1. Takes user input and writes it to a file named output.txt.
+1. Asks the user for a number as input.
 
-2. Appends additional data to the same file.
+2. Uses the math module to calculate the:
+   o Square root of the number
 
-3. Reads and displays the final content of the file.
+o Natural logarithm (log base e) of the number
+
+o Sine of the number (in radians)
+
+3. Displays the calculated results.
